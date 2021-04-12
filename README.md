@@ -20,3 +20,4 @@ If you’re not already in the Git pop-up, click “Commit”
 Type a message in “Commit message”, such as “Commit from RStudio”. Click “Commit”
 
 15.4 Push your local changes to GitHub
+
